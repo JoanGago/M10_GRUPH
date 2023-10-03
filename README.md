@@ -9,7 +9,6 @@
 ## Nom
 Pixel Kickers FC
 
-
 ## Logotipo
 
 ## Ubicació
