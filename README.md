@@ -1,4 +1,23 @@
-## Classificació empresa
+# Indice
+
+1. [Introducción](#id1)
+2. [Classificació empresa](#id2)
+3. [Nom](#id3)
+4. [Logotipo](#id4)
+5. [Ubicació](#id5)
+6. [Estrategia](#id6)
+7. [Necesidades de la empressa](#id7)
+8. [Tipos de clientes](#id8)
+9. [Número de empleados y su rol](#id9)
+
+
+
+## Introducción<a name="id1"></a>
+
+**Pixel Kickers FC** es una empresa mediana sin ánimo de lucro con sede en Austria, dedicada al fomento del fútbol entre los jóvenes y la promoción de talentos emergentes. Nuestra visión es convertirnos en un referente en nuestro sector y contribuir a una economía sostenible en el ámbito deportivo regional. Valoramos la responsabilidad social, la integridad y el trabajo en equipo como principios fundamentales. Nuestro compromiso es ofrecer oportunidades deportivas y de desarrollo personal a la juventud austriaca.
+
+
+## Classificació empresa<a name="id2"></a>
 - Sector de actividad terciaria
 - Empresa mediana
 - Empresa privada
@@ -6,17 +25,17 @@
 - Sin ánimo de lucro
 - Sociedad anónima deportiva
 
-## Nom
+## Nom<a name="id3"></a>
 Pixel Kickers FC
 
-## Logotipo
+## Logotipo<a name="id4"></a>
 
 ![Logo equipo](/img/logo.png)
 
-## Ubicació
+## Ubicació<a name="id5"></a>
 Austria. 
 
-## Estrategia
+## Estrategia<a name="id6"></a>
 ### Misión
 Fomentar el fútbol entre los jóvenes en un país donde no hay tanta afición al fútbol y descubrir posibles talentos jóvenes ayudándolos  a desarrollarse futbolísticamente, fomentando un estilo de juego que ha ayudado en el desarrollo futbolístico de España.
 
@@ -28,7 +47,7 @@ Los valores son muy importantes en la sociedad, y por ende, también en una empr
 
 
 
-## Necesidades de la empresa
+## Necesidades de la empresa<a name="id7"></a>
 	
 - Una página web oficial, la página ha de contener varios apartados:
     **Inicio:**
@@ -53,13 +72,13 @@ Los valores son muy importantes en la sociedad, y por ende, también en una empr
 
 
 
-## Tipos de clientes
+## Tipos de clientes<a name="id8"></a>
 -   Socios
 -   Fichantes de otro club ajeno al nuestro
 -   Nuevos integrantes del club
 -   Vendedor de bienes comestibles interno ajeno a la empresa
 
-## Número de empleados y su rol : 
+## Número de empleados y su rol:<a name="id9"></a> 
 -   Administradores de bases de datos : 1.
 -   Gestor de socios y patrocinios : 2.
 -   Entrenadores : 20.
