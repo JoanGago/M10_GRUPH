@@ -93,16 +93,16 @@ Para poder realizar el proyecto adecuadamente, siguiendo unos pasos que nos perm
 
 **Día 9:**
 
-![Día9](/M10_GRUPH//img/Dia-9.png)
+![Día9](/img/Dia-9.png)
 
 **Día 10:**
 
-![Día10](/M10_GRUPH//img/Dia-10.png)
+![Día10](/img/Dia-10.png)
 
 **Día 11:**
 
-![Día11](/M10_GRUPH//img/Dia-11.png)
+![Día11](/img/Dia-11.png)
 
 **Día 12:**
 
-![Día12](/M10_GRUPH//img/Dia-12.png)
+![Día12](/img/Dia-12.png)
