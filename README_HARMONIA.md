@@ -1,22 +1,19 @@
-# Indice
+# Hotel l'Harmonia
+
+Explicación del proyecto ERP con Odoo. Equipo formado por Joan, María, Tese y David.
+
+## Indice
 
 1. [Introducción](#id1)
 2. [Distribución del trabajo](#id2)
 3. [Capturas Kanban](#id3)
-4. [Logotipo](#id4)
-5. [Ubicació](#id5)
-6. [Estrategia](#id6)
-7. [Necesidades de la empressa](#id7)
-8. [Tipos de clientes](#id8)
-9. [Número de empleados y su rol](#id9)
 
+## Introducción
 
-
-## Introducción<a name="id1"></a>
-
-Para desarrollar el ERP del hotel **L'Harmonia** hemos utilizado la herramienta **Odoo**, considerando que se adapta perfectamente a las necesidades de la empresa. 
+Para desarrollar el ERP del hotel **L'Harmonia** hemos utilizado la herramienta **Odoo**, considerando que se adapta perfectamente a las necesidades de la empresa.
 
 Las aplicaciones seleccionadas para realizar dicho trabajo son las siguientes:
+
 - Venta.
 - Facturación.
 - Compra.
@@ -30,7 +27,7 @@ Las aplicaciones seleccionadas para realizar dicho trabajo son las siguientes:
 - Mantenimiento.
 - Ausencias.
 
-A continuación procedemos a la explicación del porqué hemos seleccionado dichas aplicaciones:       
+A continuación procedemos a la explicación del porqué hemos seleccionado dichas aplicaciones:
 
     Venta: Es necesaria para poder seguir el proceso de las ventas realizadas (en este caso las reservas de las habitaciones).
 
@@ -56,12 +53,57 @@ A continuación procedemos a la explicación del porqué hemos seleccionado dich
 
     Ausencias:
 
-## Distribución del trabajo<a name="id1"></a>
+## Distribución del trabajo
 
-Para poder realizar el proyecto adecuadamente, siguiendo unos pasos, hemos creado un **proyecto kanban** en github, dentro de un repositorio, donde se han añadido todas las necesidades que hemos considerado y las hemos distribuido de manera equitativa.
+Para poder realizar el proyecto adecuadamente, siguiendo unos pasos que nos permitan cooperar y desarrollar mejor el trabajo, hemos creado un **proyecto kanban** en github, dentro de un repositorio, préviamente creado, donde se han añadido todas las necesidades que hemos considerado y las hemos distribuido de manera equitativa.
+
+## Capturas Kanban
+
+**Día 1:**
+
+![Día1](/img/Dia-1.png)
 
 
+**Día 2:**
 
+![Día2](/img/Dia-2.png)
 
+**Día 3:**
 
-## Capturas Kanban<a name="id1"></a>
+![Día3](/img/Dia-3.png)
+
+**Día 4:**
+
+![Día4](/img/Dia-4.png)
+
+**Día 5:**
+
+![Día5](/img/Dia-5.png)
+
+**Día 6:**
+
+![Día6](/img/Dia-6.png)
+
+**Día 7:**
+
+![Día7](/img/Dia-7.png)
+
+**Día 8:**
+
+![Día8](/img/Dia-8.png)
+
+**Día 9:**
+
+![Día9](/img/Dia-9.png)
+
+**Día 10:**
+
+![Día10](/img/Dia-10.png)
+
+**Día 11:**
+
+![Día11](/img/Dia-11.png)
+
+**Día 12:**
+
+![Día12](/img/Dia-12.png)
