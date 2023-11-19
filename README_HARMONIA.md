@@ -8,7 +8,7 @@ Explicación del proyecto ERP con Odoo. Equipo formado por Joan, María, Tese y 
 2. [Distribución del trabajo](#id2)
 3. [Capturas Kanban](#id3)
 
-## Introducción
+## Introducción<a name="id1"></a>
 
 Para desarrollar el ERP del hotel **L'Harmonia** hemos utilizado la herramienta **Odoo**, considerando que se adapta perfectamente a las necesidades de la empresa.
 
@@ -53,57 +53,56 @@ A continuación procedemos a la explicación del porqué hemos seleccionado dich
 
     Ausencias:
 
-## Distribución del trabajo
+## Distribución del trabajo<a name="id2"></a>
 
-Para poder realizar el proyecto adecuadamente, siguiendo unos pasos que nos permitan cooperar y desarrollar mejor el trabajo, hemos creado un **proyecto kanban** en github, dentro de un repositorio, préviamente creado, donde se han añadido todas las necesidades que hemos considerado y las hemos distribuido de manera equitativa.
+Para poder realizar el proyecto adecuadamente, siguiendo unos pasos que nos permitan cooperar y desarrollar mejor el trabajo, hemos creado un **proyecto kanban** en github, dentro de un repositorio, previamente creado, donde se han añadido todas las necesidades que hemos considerado y las hemos distribuido de manera equitativa.
 
-## Capturas Kanban
+## Capturas Kanban<a name="id3"></a>
 
-**Día 1:**
+**Día 1:** 
 
-![Día1](/img/Dia-1.png)
-
+![Día1](/M10_GRUPH/img/Dia-1.png)
 
 **Día 2:**
 
-![Día2](/img/Dia-2.png)
+![Día2](/M10_GRUPH//img/Dia-2.png)
 
 **Día 3:**
 
-![Día3](/img/Dia-3.png)
+![Día3](/M10_GRUPH//img/Dia-3.png)
 
 **Día 4:**
 
-![Día4](/img/Dia-4.png)
+![Día4](/M10_GRUPH//img/Dia-4.png)
 
 **Día 5:**
 
-![Día5](/img/Dia-5.png)
+![Día5](/M10_GRUPH//img/Dia-5.png)
 
 **Día 6:**
 
-![Día6](/img/Dia-6.png)
+![Día6](/M10_GRUPH//img/Dia-6.png)
 
 **Día 7:**
 
-![Día7](/img/Dia-7.png)
+![Día7](/M10_GRUPH//img/Dia-7.png)
 
 **Día 8:**
 
-![Día8](/img/Dia-8.png)
+![Día8](/M10_GRUPH//img/Dia-8.png)
 
 **Día 9:**
 
-![Día9](/img/Dia-9.png)
+![Día9](/M10_GRUPH//img/Dia-9.png)
 
 **Día 10:**
 
-![Día10](/img/Dia-10.png)
+![Día10](/M10_GRUPH//img/Dia-10.png)
 
 **Día 11:**
 
-![Día11](/img/Dia-11.png)
+![Día11](/M10_GRUPH//img/Dia-11.png)
 
 **Día 12:**
 
-![Día12](/img/Dia-12.png)
+![Día12](/M10_GRUPH//img/Dia-12.png)
