@@ -9,6 +9,8 @@ Explicación del proyecto ERP con Odoo. Equipo formado por Joan, María, Tese y 
 3. [Capturas Kanban](#id3)
 4. [Reuniones Semanales](#id4)
 5. [Wireframe Baja Fidelidad](#id5)
+
+
 Link externo -> [Wireframe Alta Fidelidad](https://www.figma.com/file/pklhUOtOpsGD6ibECkYuiG/Odoo-WIreframe?type=design&node-id=0%3A1&mode=design&t=jyKPxG0zif7UlNMJ-1)
 
 ## Introducción<a name="id1"></a>
