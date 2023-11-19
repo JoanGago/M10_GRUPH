@@ -61,35 +61,35 @@ Para poder realizar el proyecto adecuadamente, siguiendo unos pasos que nos perm
 
 **Día 1:** 
 
-![Día1](/M10_GRUPH/img/Dia-1.png)
+![Día1](/img/Dia-1.png)
 
 **Día 2:**
 
-![Día2](/M10_GRUPH//img/Dia-2.png)
+![Día2](/img/Dia-2.png)
 
 **Día 3:**
 
-![Día3](/M10_GRUPH//img/Dia-3.png)
+![Día3](/img/Dia-3.png)
 
 **Día 4:**
 
-![Día4](/M10_GRUPH//img/Dia-4.png)
+![Día4](/img/Dia-4.png)
 
 **Día 5:**
 
-![Día5](/M10_GRUPH//img/Dia-5.png)
+![Día5](/img/Dia-5.png)
 
 **Día 6:**
 
-![Día6](/M10_GRUPH//img/Dia-6.png)
+![Día6](/img/Dia-6.png)
 
 **Día 7:**
 
-![Día7](/M10_GRUPH//img/Dia-7.png)
+![Día7](/img/Dia-7.png)
 
 **Día 8:**
 
-![Día8](/M10_GRUPH//img/Dia-8.png)
+![Día8](/img/Dia-8.png)
 
 **Día 9:**
 
