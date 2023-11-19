@@ -170,7 +170,7 @@ Semana 2:
 Presentamos un wireframe de baja calidad que fue bien recibido. Acordamos mostrar avances semanales y ajustar el diseño según las indicaciones o sugerencias del Product Manager. Mientras instalábamos las aplicaciones acordadas, nos dimos cuenta de que dos de ellas, planificación y valoración, eran de pago. En colaboración con el Product Manager, exploramos alternativas gratuitas.  
 
 Semana 3:  
-Identificamos que habíamos pasado por alto aspectos relacionados con el marketing mencionados en el documento de necesidades de la empresa. Comunicamos esto al Product Manager y acordamos que la carga de trabajo actual era adecuada. Dado que la estrategia de marketing era estacional, decidimos prescindir de ella, con la opción de añadirla si acabábamos antes de lo pensado lo permitía.  
+Identificamos que habíamos pasado por alto aspectos relacionados con el marketing mencionados en el documento de necesidades de la empresa. Comunicamos esto al Product Manager y acordamos que la carga de trabajo actual era adecuada. Dado que la estrategia de marketing era estacional, decidimos prescindir de ella, con la opción de añadirla si acabábamos antes de lo pensado.  
 
 Semana 4:  
 Presentamos los avances del wireframe de alta fidelidad, basándonos en la versión de baja fidelidad previa. El Product Manager dio el visto Bueno y sugirio algunos cambios en colores, disposición de textos e imágenes, pero en general, la propuesta fue bien recibida.  
